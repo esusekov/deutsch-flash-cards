@@ -1,0 +1,361 @@
+{
+  "version": "1.0",
+  "groups": [
+    {
+      "id": "verbs_daily_routine",
+      "name": "Verbs - Daily Routine",
+      "name_ru": "Глаголы - Ежедневные действия"
+    },
+    {
+      "id": "household",
+      "name": "Household",
+      "name_ru": "Домашнее хозяйство"
+    },
+    {
+      "id": "common_verbs",
+      "name": "Common Verbs",
+      "name_ru": "Распространенные глаголы"
+    },
+    {
+      "id": "common_nouns",
+      "name": "Common Nouns",
+      "name_ru": "Распространенные существительные"
+    },
+    {
+      "id": "common_adjectives",
+      "name": "Common Adjectives",
+      "name_ru": "Распространенные прилагательные"
+    },
+    {
+      "id": "common_adverbs",
+      "name": "Common Adverbs",
+      "name_ru": "Распространенные наречия"
+    },
+    {
+      "id": "prepositions",
+      "name": "Prepositions",
+      "name_ru": "Предлоги"
+    },
+    {
+      "id": "pronouns",
+      "name": "Pronouns",
+      "name_ru": "Местоимения"
+    },
+    {
+      "id": "conjunctions",
+      "name": "Conjunctions",
+      "name_ru": "Союзы"
+    },
+    {
+      "id": "articles",
+      "name": "Articles",
+      "name_ru": "Артикли"
+    }
+  ],
+  "words": [
+    {
+      "id": "ich",
+      "word": "ich",
+      "translation_ru": "я",
+      "groups": ["pronouns"],
+      "examples": [
+        {
+          "de": "Ich komme aus Deutschland.",
+          "ru": "Я из Германии."
+        },
+        {
+          "de": "Ich spreche Deutsch.",
+          "ru": "Я говорю по-немецки."
+        },
+        {
+          "de": "Ich liebe dich.",
+          "ru": "Я люблю тебя."
+        }
+      ]
+    },
+    {
+      "id": "und",
+      "word": "und",
+      "translation_ru": "и",
+      "groups": ["conjunctions"],
+      "examples": [
+        {
+          "de": "Mutter und Vater",
+          "ru": "Мама и папа"
+        },
+        {
+          "de": "Ich esse und trinke.",
+          "ru": "Я ем и пью."
+        },
+        {
+          "de": "Tag und Nacht",
+          "ru": "День и ночь"
+        }
+      ]
+    },
+    {
+      "id": "in",
+      "word": "in",
+      "translation_ru": "в",
+      "groups": ["prepositions"],
+      "examples": [
+        {
+          "de": "Ich wohne in Berlin.",
+          "ru": "Я живу в Берлине."
+        },
+        {
+          "de": "Das Buch ist in der Tasche.",
+          "ru": "Книга в сумке."
+        },
+        {
+          "de": "Sie arbeitet in einer Schule.",
+          "ru": "Она работает в школе."
+        }
+      ]
+    },
+    {
+      "id": "sein",
+      "word": "sein",
+      "translation_ru": "быть",
+      "groups": ["common_verbs"],
+      "examples": [
+        {
+          "de": "Ich bin müde.",
+          "ru": "Я устал."
+        },
+        {
+          "de": "Er ist Arzt.",
+          "ru": "Он врач."
+        },
+        {
+          "de": "Wir sind zu Hause.",
+          "ru": "Мы дома."
+        }
+      ]
+    },
+    {
+      "id": "werden",
+      "word": "werden",
+      "translation_ru": "становиться",
+      "groups": ["common_verbs"],
+      "examples": [
+        {
+          "de": "Er wird Lehrer.",
+          "ru": "Он становится учителем."
+        },
+        {
+          "de": "Es wird dunkel.",
+          "ru": "Становится темно."
+        },
+        {
+          "de": "Ich werde dir helfen.",
+          "ru": "Я помогу тебе."
+        }
+      ]
+    },
+    {
+      "id": "können",
+      "word": "können",
+      "translation_ru": "мочь, уметь",
+      "groups": ["common_verbs"],
+      "examples": [
+        {
+          "de": "Ich kann schwimmen.",
+          "ru": "Я умею плавать."
+        },
+        {
+          "de": "Kannst du mir helfen?",
+          "ru": "Можешь мне помочь?"
+        },
+        {
+          "de": "Er kann gut kochen.",
+          "ru": "Он хорошо готовит."
+        }
+      ]
+    },
+    {
+      "id": "müssen",
+      "word": "müssen",
+      "translation_ru": "должен, обязан",
+      "groups": ["common_verbs"],
+      "examples": [
+        {
+          "de": "Ich muss arbeiten.",
+          "ru": "Я должен работать."
+        },
+        {
+          "de": "Wir müssen gehen.",
+          "ru": "Мы должны идти."
+        },
+        {
+          "de": "Sie muss lernen.",
+          "ru": "Она должна учиться."
+        }
+      ]
+    },
+    {
+      "id": "haben",
+      "word": "haben",
+      "translation_ru": "иметь",
+      "groups": ["common_verbs"],
+      "examples": [
+        {
+          "de": "Ich habe ein Auto.",
+          "ru": "У меня есть машина."
+        },
+        {
+          "de": "Sie hat blaue Augen.",
+          "ru": "У нее голубые глаза."
+        },
+        {
+          "de": "Wir haben Zeit.",
+          "ru": "У нас есть время."
+        }
+      ]
+    },
+    {
+      "id": "der",
+      "word": "der",
+      "translation_ru": "определенный артикль мужского рода",
+      "groups": ["articles"],
+      "examples": [
+        {
+          "de": "Der Mann ist groß.",
+          "ru": "Мужчина высокий."
+        },
+        {
+          "de": "Ich sehe den Hund.",
+          "ru": "Я вижу собаку."
+        },
+        {
+          "de": "Das ist der Tisch.",
+          "ru": "Это стол."
+        }
+      ]
+    },
+    {
+      "id": "gehen",
+      "word": "gehen",
+      "translation_ru": "идти, ходить",
+      "groups": ["common_verbs", "verbs_daily_routine"],
+      "examples": [
+        {
+          "de": "Ich gehe zur Schule.",
+          "ru": "Я иду в школу."
+        },
+        {
+          "de": "Wohin gehst du?",
+          "ru": "Куда ты идёшь?"
+        },
+        {
+          "de": "Wir gehen spazieren.",
+          "ru": "Мы идём гулять."
+        }
+      ]
+    },
+    {
+      "id": "kommen",
+      "word": "kommen",
+      "translation_ru": "приходить, прибывать",
+      "groups": ["common_verbs"],
+      "examples": [
+        {
+          "de": "Wann kommst du?",
+          "ru": "Когда ты придёшь?"
+        },
+        {
+          "de": "Er kommt aus Frankreich.",
+          "ru": "Он из Франции."
+        },
+        {
+          "de": "Ich komme später.",
+          "ru": "Я приду позже."
+        }
+      ]
+    },
+    {
+      "id": "putzen",
+      "word": "putzen",
+      "translation_ru": "чистить, убирать",
+      "groups": ["verbs_daily_routine", "household"],
+      "examples": [
+        {
+          "de": "Ich putze die Fenster.",
+          "ru": "Я мою окна."
+        },
+        {
+          "de": "Putzt eure Zähne.",
+          "ru": "Чистите свои зубы."
+        },
+        {
+          "de": "Ich putze mir jeden Tag die Zähne.",
+          "ru": "Я чищу зубы каждый день."
+        },
+        {
+          "de": "Ich putze meine Zähne mit einer Zahnbürste.",
+          "ru": "Я чищу зубы зубной щеткой."
+        }
+      ]
+    },
+    {
+      "id": "gut",
+      "word": "gut",
+      "translation_ru": "хороший, хорошо",
+      "groups": ["common_adjectives", "common_adverbs"],
+      "examples": [
+        {
+          "de": "Das Essen ist gut.",
+          "ru": "Еда хорошая."
+        },
+        {
+          "de": "Er spricht gut Deutsch.",
+          "ru": "Он хорошо говорит по-немецки."
+        },
+        {
+          "de": "Guten Morgen!",
+          "ru": "Доброе утро!"
+        }
+      ]
+    },
+    {
+      "id": "sagen",
+      "word": "sagen",
+      "translation_ru": "говорить, сказать",
+      "groups": ["common_verbs"],
+      "examples": [
+        {
+          "de": "Was sagst du dazu?",
+          "ru": "Что ты об этом скажешь?"
+        },
+        {
+          "de": "Ich sage die Wahrheit.",
+          "ru": "Я говорю правду."
+        },
+        {
+          "de": "Er sagt nichts.",
+          "ru": "Он ничего не говорит."
+        }
+      ]
+    },
+    {
+      "id": "machen",
+      "word": "machen",
+      "translation_ru": "делать",
+      "groups": ["common_verbs"],
+      "examples": [
+        {
+          "de": "Was machst du?",
+          "ru": "Что ты делаешь?"
+        },
+        {
+          "de": "Ich mache meine Hausaufgaben.",
+          "ru": "Я делаю домашнее задание."
+        },
+        {
+          "de": "Das macht Spaß!",
+          "ru": "Это весело!"
+        }
+      ]
+    }
+  ]
+}
