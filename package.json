@@ -10,10 +10,15 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@telegram-apps/telegram-ui": "^2.1.8",
     "@twa-dev/sdk": "^6.9.1",
     "@vkruglikov/react-telegram-web-app": "^2.1.5",
+    "lucide-react": "^0.474.0",
+    "openai": "^4.20.1",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.20.1",
+    "react-swipeable": "^7.0.2"
   },
   "devDependencies": {
     "@types/react": "^18.2.37",
